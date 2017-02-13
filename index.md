@@ -1,4 +1,4 @@
-![image](http://comm.soc.northwestern.edu/nnsi/files/2013/01/Rey-copy.jpg)
+![image](Reyhaneh-Maktoufi/ReyMaktoufi.jpg)
 
 ## Reyhaneh Maktoufi
 
