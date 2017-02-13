@@ -24,7 +24,9 @@ Physiotherapy
 ### Publication and Presentation
 
 -Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association.
+
 -Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.
+
 -Maktoufi, R. Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments.
 
 ### Research Experience
@@ -50,22 +52,28 @@ May 2013 - March 2014
 **Buffet Institute**, US - Qualitative Methodology
 October 2016 
 Invited speaker on the topic of qualitative methods in “Science Communication”
+
 **Adler Planetarium**, US - Body Language
 October 2016 & May 2016
 Teaching nonverbal communication to new speakers of Adler’s Space Visualization Lab
+
 **Brave Initiatives**, US - Public Speaking
 January 2016
 Teaching Public Speaking Skills in a program for young girls to help them in coding and social engagement
+
 **Sepas NGO**, Iran - Communication Skills/ Grief/ TOT
 October 2012 - March 2015
 Ongoing workshops for volunteers and professionals in the field of cancer advocacy 
+
 **Imam Hossein Hospital**, Iran- Health Communication
 June 2014
 Workshop on doctor-patient communication for the nursing staff
+
 **IFMSA**, Iran - Health Communication/Clown Physician Summer School
 Summer 2012
 Series of workshop and activities for medical students
 Designer of the program and facilitator to develop communication skills with an emphasis on “Clown Physician” 
+
 **Imam Ali NGO**, Iran - Communication Skills/ Grief
 October 2012 - March 2015
 Series of ongoing workshops for volunteers working with children experiencing terminal or chronic diseases.
@@ -74,10 +82,13 @@ Series of ongoing workshops for volunteers working with children experiencing te
 
 **Habitat for Humanity**, Turkey - Human resource Management in NGOs
 July 2014
+
 **Northwestern’s IDEAS**, US - Data Visualization (D3, Matplotlib, Paraview, etc. )
 Summer 2016
+
 **Northwestern’s RSG**, US - Science Communication Skills
 Summer 2016
+
 **Sepas NGO**, Iran- Communication Skills/ SGS (Société Générale de Surveillance)
 Summer 2013
 
@@ -85,41 +96,59 @@ Summer 2013
 
 **ComSciCon-Chicago**, US - Co-President
 August 2017
+
 **Organizational Communication Mini-Conference**, US - Organizer Committee
 September 2016
+
 **Adler Planetarium**, US- Space Visualization Lab Developer
 April 2015 - Present
+
 **Brave Initiatives**- Public Speaking Workshop Facilitator
 September 2015 - Present
+
 **Northwestern University**, US-  Professional Development Committee 
 September 2016 - Present
+
 **Sepas NGO**, Iran - Facilitator, Advocacy Project Manager, others
 October 2008 - March 2013
+
 **Imam Ali NGO**, Iran - Facilitator, Advocacy Project Manager, Play/Art Therapist
 October 2006 - August 2015
+
 ### Media
 
 **Documentaries**- The Blue Wheel (Star, 2011), People is Sometimes Kind (Illustrator, 2012)
 TV Show(Pilot)- Juliet and the Shrink (2012)
+
 **Commercials and Advertising**-  World Writers (Copywriter, April 2013- Present), Magnolia Advertising agency (Creative Producer, October 2012- March 2013)
+
 **Game**- Pwnie Yard: Razorettes (voice-over, 2015)
+
 **Assistant Journalist/Interpreter**- Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)
+
 **Science Communication**-[Personal Youtube Channel](https://www.youtube.com/user/reyhanehmak)
+
 **Comics/Illustration**- [Personal Instagram Page ](https://www.instagram.com/reyhanehmc/)
 
 
 ### Skills
 
 **Language** - Farsi (Native), English (Fluent), German(Intermediate), Arabic (Elementary)
+
 **Adobe Package**- Photoshop, Premiere, After Effect, A]udition
+
 **Computer Skills**- Familiar with Python, CSS, HTML, D3
+
 **Statistics**- SPSS 
 
 ### Other Life Experiences
 
 **Grief Consultant**- Farsi Hospice (April 2013- March 2015)
+
 **Amateur Astronomer**- Freelance (2003 - Present)
+
 **Website Administrator**-Lifestyle English (2006); Marham, Palliative Care Support(2014)
+
 **Physiotherapist**- Teran’s Children Medical Center (September 2006- August 2007)
 
 ### Contact Info
