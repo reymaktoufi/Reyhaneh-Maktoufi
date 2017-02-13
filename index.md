@@ -1,4 +1,5 @@
-![image](https://docs.google.com/document/d/19IqQGXYuWfrbK1JwQ52-tQ0leyNKR4kTxMbAQRXWISA/edit)
+![image](http://comm.soc.northwestern.edu/nnsi/files/2013/01/Rey-copy.jpg)
+
 ## Reyhaneh Maktoufi
 
 Reyhaneh is a PhD student in Media, Technology, and Society at Northwestern University. Her main field of interest is science communication in particular in Astronomy and Physics. She work at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/)where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships.
