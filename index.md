@@ -104,11 +104,9 @@ TV Show(Pilot)- Juliet and the Shrink (2012)
 **Commercials and Advertising**-  World Writers (Copywriter, April 2013- Present), Magnolia Advertising agency (Creative Producer, October 2012- March 2013)
 **Game**- Pwnie Yard: Razorettes (voice-over, 2015)
 **Assistant Journalist/Interpreter**- Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)
-**Science Communication**- Personal Youtube Channel
-**Comics/Illustration**- Personal Instagram Page 
+**Science Communication**-[Personal Youtube Channel](https://www.youtube.com/user/reyhanehmak)
+**Comics/Illustration**- [Personal Instagram Page ](https://www.instagram.com/reyhanehmc/)
 
-[Personal Youtube Channel](https://www.youtube.com/user/reyhanehmak)
-[Personal Instagram Page ](https://www.instagram.com/reyhanehmc/)
 
 ### Skills
 
