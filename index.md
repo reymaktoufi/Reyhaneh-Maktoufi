@@ -154,5 +154,3 @@ TV Show(Pilot)- Juliet and the Shrink (2012)<br>
 ### Contact Info
 You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her on Twitter at [thecosmicrey](https://twitter.com/thecosmicrey) and on instagram at [Reyhaneh Maktoufi](https://www.instagram.com/reyhanehmc/).
 
-UA-91823788-1
-
