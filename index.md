@@ -7,19 +7,17 @@ Reyhaneh is a PhD student in Media, Technology, and Society at Northwestern Univ
 Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97) and the [Brave Initiatives](https://www.braveinitiatives.com/the-brave-team.html)as a workshop facilitator. In her free time, she does doodling and scares away the birds by singing high-pitch with her ukulele.
 
 
-You can use the [Brave Initiatives](https://www.braveinitiatives.com/the-brave-team.html) to maintain and preview the content for your website in Markdown files.
-
 ### EDUCATION
 
-Northwestern University, Evanston, IL - PhD
+**Northwestern University**, Evanston, IL - PhD
 September  2015 - Present
 Media, Technology, and Society
 
-University of Sussex, Brighton, UK - MSc             	                  
+**University of Sussex**, Brighton, UK - MSc             	                  
 September 2011 - September 2012
 Health Psychology
 
-Tehran University; Tehran, Iran - BSc                                     	
+**Tehran University**, Tehran, Iran - BSc                                     	
 September 2006 - September 2010
 Physiotherapy
 
@@ -115,7 +113,7 @@ TV Show(Pilot)- Juliet and the Shrink (2012)
 ### Skills
 
 **Language** - Farsi (Native), English (Fluent), German(Intermediate), Arabic (Elementary)
-**Adobe Package**- Photoshop, Premiere, After Effect, Audition
+**Adobe Package**- Photoshop, Premiere, After Effect, A]udition
 **Computer Skills**- Familiar with Python, CSS, HTML, D3
 **Statistics**- SPSS 
 
@@ -125,3 +123,6 @@ TV Show(Pilot)- Juliet and the Shrink (2012)
 **Amateur Astronomer**- Freelance (2003 - Present)
 **Website Administrator**-Lifestyle English (2006); Marham, Palliative Care Support(2014)
 **Physiotherapist**- Teran’s Children Medical Center (September 2006- August 2007)
+
+
+You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her on Twitter at [thecosmicrey](https://twitter.com/thecosmicrey) and on instagram at [Reyhaneh Maktoufi](https://www.instagram.com/reyhanehmc/).
