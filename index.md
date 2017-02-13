@@ -31,12 +31,12 @@ Physiotherapy
 
 ### Research Experience
 
-**NNSI**, US - Doctoral Research Assistant  
-September 2016 - PRESENT  
--Network for Nonprofit and Social Impact, directed by Dr. Michelle shumate  
-Working for the Metropolitan Chicago Nonprofit Merger Research Project on nonprofit mergers publish at:  
-Haider, D., Katherine, C., & Maktoufi, R. (2016). Mergers as a Strategy for Success. Retrieved from: http://chicagonpmergerstudy.org/  
--Project manager for the Nonprofit and Corporation partnership research funded by NSF  
+**NNSI**, US - Doctoral Research Assistant<br>
+September 2016 - PRESENT<br>
+-Network for Nonprofit and Social Impact, directed by Dr. Michelle shumate<br> 
+Working for the Metropolitan Chicago Nonprofit Merger Research Project on nonprofit mergers publish at:<br>
+Haider, D., Katherine, C., & Maktoufi, R. (2016). Mergers as a Strategy for Success. Retrieved from: http://chicagonpmergerstudy.org/<br>
+-Project manager for the Nonprofit and Corporation partnership research funded by NSF<br>
 
 **National Cancer Network**, Iran - Sepas NGO Correspondent Research Assistant
 October 2012 - March 2015
