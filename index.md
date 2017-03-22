@@ -8,25 +8,25 @@ Her working background is mainly in audience outreach in nonprofits, mostly in t
 
 ### EDUCATION
 
-**Northwestern University**, Evanston, IL - PhD
-September  2015 - Present
-Media, Technology, and Society
+**Northwestern University**, Evanston, IL - PhD<br>
+September  2015 - Present<br>
+Media, Technology, and Society<br>
 
-**University of Sussex**, Brighton, UK - MSc             	                  
-September 2011 - September 2012
-Health Psychology
+**University of Sussex**, Brighton, UK - MSc <br>            	                  
+September 2011 - September 2012<br>
+Health Psychology<br>
 
-**Tehran University**, Tehran, Iran - BSc                                     	
-September 2006 - September 2010
-Physiotherapy
+**Tehran University**, Tehran, Iran - BSc<br>                                     	
+September 2006 - September 2010<br>
+Physiotherapy<br>
 
 ### Publication and Presentation
 
--Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association.
+-Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association.<br>
 
--Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.
+-Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.<br>
 
--Maktoufi, R. Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments.
+-Maktoufi, R. Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments.<br>
 
 ### Research Experience
 
