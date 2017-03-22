@@ -12,7 +12,7 @@ Her working background is mainly in audience outreach in nonprofits, mostly in t
 September  2015 - Present<br>
 Media, Technology, and Society<br>
 
-**University of Sussex**, Brighton, UK - MSc <br>            	                  
+**University of Sussex**, Brighton, UK - MSc<br>            	                  
 September 2011 - September 2012<br>
 Health Psychology<br>
 
