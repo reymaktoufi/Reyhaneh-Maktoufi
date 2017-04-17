@@ -120,7 +120,7 @@ October 2006 - August 2015<br>
 ### Media
 
 **Documentaries**- The Blue Wheel (Star, 2011), People is Sometimes Kind (Illustrator, 2012)<br>
-TV Show(Pilot)- Juliet and the Shrink (2012)<br>
+TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 **Commercials and Advertising**-  World Writers (Copywriter, April 2013- Present), Magnolia Advertising agency (Creative Producer, October 2012- March 2013)<br>
 
