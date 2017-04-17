@@ -12,7 +12,7 @@ Her working background is mainly in audience outreach in nonprofits, mostly in t
 September  2015 - Present<br>
 Media, Technology, and Society<br>
 
-**University of Sussex**, Brighton, UK - MSc<br>            	                  
+**University of Sussex**, Brighton, UK - MSc<br>
 September 2011 - September 2012<br>
 Health Psychology<br>
 
@@ -141,6 +141,7 @@ TV Show(Pilot)- Juliet and the Shrink (2012)<br>
 **Statistics**- SPSS <br>
 
 ### Other Life Experiences
+**TEDx Northwestern Speaker** - [Northwestern University](https://tedxnorthwesternu.com/speakers/) (April 2017)<br>
 
 **Grief Consultant**- Farsi Hospice (April 2013- March 2015)<br>
 
