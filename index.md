@@ -88,6 +88,9 @@ Summer 2016<br>
 **Northwestern’s RSG**, US - Science Communication Skills<br>
 Summer 2016<br>
 
+**ComSciCon-Chicago**, US - Science Communication Skills<br>
+Summer 2016<br>
+
 **Sepas NGO**, Iran- Communication Skills/ SGS (Société Générale de Surveillance)<br>
 Summer 2013<br>
 
