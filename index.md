@@ -22,6 +22,8 @@ Physiotherapy<br>
 
 ### Publication and Presentation
 
+-Maktoufi, R. (2017). Pop Culture References: A Bait to Elicit Pleasant Scientific Curiosity. ACM CHI 2017 workshop Design for Curiosity.<br>
+
 -Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association.<br>
 
 -Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.<br>
