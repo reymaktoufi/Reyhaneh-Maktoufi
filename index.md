@@ -32,19 +32,19 @@ Physiotherapy<br>
 ### Research Experience
 
 **NNSI**, US - Doctoral Research Assistant<br>
-September 2016 - PRESENT<br>
+2016 - PRESENT<br>
 -Network for Nonprofit and Social Impact, directed by Dr. Michelle shumate<br> 
 Working for the Metropolitan Chicago Nonprofit Merger Research Project on nonprofit mergers publish at:<br>
 Haider, D., Katherine, C., & Maktoufi, R. (2016). Mergers as a Strategy for Success. Retrieved from: http://chicagonpmergerstudy.org/<br>
 -Project manager for the Nonprofit and Corporation partnership research funded by NSF<br>
 
 **National Cancer Network**, Iran - Sepas NGO Correspondent Research Assistant<br>
-October 2012 - March 2015<br>
+2012 - 2015<br>
 -Literature review on audience preference and preventive care, for the Health Literacy Package <br>
 -Literature review on Comparative work for the Palliative Care Programs <br>
 
 **Atieh Neuroscience Clinic**, Iran - Research Assistant<br>
-May 2013 - March 2014<br>
+2013 - 2014<br>
 -The effect of QEEG and mindfulness on level of anxiety in patients experiencing breast cancer<br>
 
 ### Teaching Experience
@@ -54,15 +54,15 @@ October 2016 <br>
 Invited speaker on the topic of qualitative methods in “Science Communication”<br>
 
 **Adler Planetarium**, US - Body Language<br>
-October 2016 & May 2016<br>
-Teaching nonverbal communication to new speakers of Adler’s Space Visualization Lab<br>
+2016 - Present<br>
+Teaching communication and science storytelling to new speakers of Adler’s Space Visualization Lab<br>
 
 **Brave Initiatives**, US - Public Speaking<br>
 January 2016<br>
 Teaching Public Speaking Skills in a program for young girls to help them in coding and social engagement<br>
 
 **Sepas NGO**, Iran - Communication Skills/ Grief/ TOT<br>
-October 2012 - March 2015<br>
+2012 - 2015<br>
 Ongoing workshops for volunteers and professionals in the field of cancer advocacy <br>
 
 **Imam Hossein Hospital**, Iran- Health Communication<br>
@@ -75,7 +75,7 @@ Series of workshop and activities for medical students<br>
 Designer of the program and facilitator to develop communication skills with an emphasis on “Clown Physician” <br>
 
 **Imam Ali NGO**, Iran - Communication Skills/ Grief<br>
-October 2012 - March 2015<br>
+2012 - 2015<br>
 Series of ongoing workshops for volunteers working with children experiencing terminal or chronic diseases.<br>
 
 ### Relevant Workshops Series
@@ -97,26 +97,26 @@ Summer 2013<br>
 
 ### Volunteer Experience
 
-**ComSciCon-Chicago**, US - Co-President<br>
-August 2017<br>
+**Communicating Science Conference "[ComSciCon-Chicago](https://comscicon.com/people/reyhaneh-maktoufi)"**, US - Co-President<br>
+2016 - Present<br>
 
 **Organizational Communication Mini-Conference**, US - Organizer Committee<br>
-September 2016<br>
+2016<br>
 
-**Adler Planetarium**, US- Space Visualization Lab Developer<br>
-April 2015 - Present<br>
+**[Adler Planetarium](http://www.adlerplanetarium.org/become-a-volunteer/meet-our-volunteers/)**, US- Space Visualization Lab Developer<br>
+2016 - Present<br>
 
-**Brave Initiatives**- Public Speaking Workshop Facilitator<br>
-September 2015 - Present<br>
+**[Brave Initiatives](https://www.braveinitiatives.com/the-brave-team.html)**- Public Speaking Workshop Facilitator<br>
+2015 - Present<br>
 
 **Northwestern University**, US-  Professional Development Committee <br>
-September 2016 - Present<br>
+2016 - Present<br>
 
 **Sepas NGO**, Iran - Facilitator, Advocacy Project Manager, others<br>
-October 2008 - March 2013<br>
+2008 - 2013<br>
 
 **Imam Ali NGO**, Iran - Facilitator, Advocacy Project Manager, Play/Art Therapist<br>
-October 2006 - August 2015<br>
+2006 - 2015<br>
 
 ### Media
 
@@ -140,20 +140,20 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 **Adobe Package**- Photoshop, Premiere, After Effect, Audition<br>
 
-**Computer Skills**- Familiar with Python, CSS, HTML, D3<br>
+**Computer Skills**- Familiar with CSS, HTML, D3<br>
 
 **Statistics**- SPSS <br>
 
 ### Other Life Experiences
 **TEDx Northwestern Speaker** - [Northwestern University](https://tedxnorthwesternu.com/speakers/) (April 2017)<br>
 
-**Grief Consultant**- Farsi Hospice (April 2013- March 2015)<br>
+**Grief Consultant**- Farsi Hospice (2013- 2015)<br>
 
 **Amateur Astronomer**- Freelance (2003 - Present)<br>
 
 **Website Administrator**-Lifestyle English (2006); Marham, Palliative Care Support(2014)<br>
 
-**Physiotherapist**- Teran’s Children Medical Center (September 2006- August 2007)<br>
+**Physiotherapist**- Teran’s Children Medical Center (2006- 2007)<br>
 
 ### Contact Info
 You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her on Twitter [@thecosmicrey](https://twitter.com/thecosmicrey) and [instagram](https://www.instagram.com/reyhanehmc/) and read her blog ["The Cosmic Rey"](https://reyhanehmaktoufi.wordpress.com/).
