@@ -78,10 +78,10 @@ Designer of the program and facilitator to develop communication skills with an 
 2012 - 2015<br>
 Series of ongoing workshops for volunteers working with children experiencing terminal or chronic diseases.<br>
 
-### Relevant Workshops Series
+### Relevant Training
 
-**Habitat for Humanity**, Turkey - Human resource Management in NGOs<br>
-July 2014<br>
+**Northwestern's leadership Coaching**, US - Personalized leadership skills training<br>
+Spring 2017
 
 **Northwestern’s IDEAS**, US - Data Visualization (D3, Matplotlib, Paraview, etc.)<br>
 Summer 2016<br>
@@ -91,6 +91,9 @@ Summer 2016<br>
 
 **ComSciCon-Chicago**, US - Science Communication Skills<br>
 Summer 2016<br>
+
+**Habitat for Humanity**, Turkey - Human resource Management in NGOs<br>
+July 2014<br>
 
 **Sepas NGO**, Iran- Communication Skills/ SGS (Société Générale de Surveillance)<br>
 Summer 2013<br>
@@ -129,7 +132,7 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 **Assistant Journalist/Interpreter**- Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)<br>
 
-**Science Communication**-[Personal Youtube Channel](https://www.youtube.com/user/reyhanehmak)<br>
+**Science Communication**-[Personal Youtube Channel](https://www.youtube.com/user/reyhanehmak) and [Personal Blog](https://reyhanehmaktoufi.wordpress.com)<br>
 
 **Comics/Illustration**- [Personal Instagram Page ](https://www.instagram.com/reyhanehmc/)<br>
 
@@ -146,6 +149,8 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 ### Other Life Experiences
 **TEDx Northwestern Speaker** - [Northwestern University](https://tedxnorthwesternu.com/speakers/) (April 2017)<br>
+
+**NCA Doctoral Honors Seminar** - Bowling Green State University (July, 2017)<br>
 
 **Grief Consultant**- Farsi Hospice (2013- 2015)<br>
 
