@@ -92,7 +92,7 @@ Summer 2016<br>
 **ComSciCon-Chicago**, US - Science Communication Skills<br>
 Summer 2016<br>
 
-**Habitat for Humanity**, Turkey - Human resource Management in NGOs<br>
+**Habitat for Humanity**, Turkey - Human Resources Management in NGOs<br>
 July 2014<br>
 
 **Sepas NGO**, Iran- Communication Skills/ SGS (Société Générale de Surveillance)<br>
