@@ -1,8 +1,6 @@
 
 ![image](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/Pic.jpg)
 
-[[https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/Pic.jpg]]
-
 Reyhaneh is a PhD student in Media, Technology, and Society at Northwestern University. Her main field of interest is science communication in particular in Astronomy and Physics. She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships.
 
 Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97) and the [Brave Initiatives](https://www.braveinitiatives.com/the-brave-team.html) as a workshop facilitator. In her free time, she does doodling and scares away the birds by singing high-pitch with her ukulele.
