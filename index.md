@@ -102,7 +102,7 @@ Summer 2013<br>
 ### Volunteer Experience
 
 **Communicating Science Conference "[ComSciCon-Chicago](https://comscicon.com/people/reyhaneh-maktoufi)"**, US - Co-President<br>
-2016 - Present<br>
+2016 - 2017<br>
 
 **Organizational Communication Mini-Conference**, US - Organizer Committee<br>
 2016<br>
@@ -149,9 +149,11 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 **Statistics**- SPSS <br>
 
 ### Other Life Experiences
-**TEDx Northwestern Speaker** - [Northwestern University](https://tedxnorthwesternu.com/speakers/) (April 2017)<br>
+**TEDx Northwestern Speaker** - [Northwestern University](https://www.youtube.com/watch?v=jKYotip_2LU&t=1s) (April 2017)<br>
 
 **NCA Doctoral Honors Seminar** - Bowling Green State University (July, 2017)<br>
+
+**Chemistry Education Copywriter** - [Science Ninja](http://www.scienceninjas.com/) Board Game Intern - (Summer 2017) <br>
 
 **Grief Consultant**- Farsi Hospice (2013- 2015)<br>
 
