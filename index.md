@@ -22,13 +22,19 @@ Physiotherapy<br>
 
 ### Publication and Presentation
 
+-Cooper, K.R., & Maktoufi, R. (2017, November). Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers. Paper to be presented at Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) conference, Grand Rapids, MI. <br>
+
+-Maktoufi, R., Shumate, M. D., O'Connor, A. S. (2017). The Effect of Created Fit and level of Activism on the Perception of Fitness of Nonprofit and Corporate Partnerships. Poster presented at the Organizational Communication Mini-Conference, Athens, OH, October 13-15.<br>
+
 -Maktoufi, R. (2017). Pop Culture References: A Bait to Elicit Pleasant Scientific Curiosity. ACM CHI 2017 workshop Design for Curiosity.<br>
 
 -Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association.<br>
 
+Haider, D., Cooper, K., & Maktoufi, R. (2016, October 20). Mergers as a strategy for success: 2016 Report from the Metropolitan Chicago Nonprofit Merger research project. Retrieved from ]http://www.chicagonpmergerstudy.org/](http://www.chicagonpmergerstudy.org/)<br>
+
 -Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.<br>
 
--Maktoufi, R. Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments.<br>
+-Maktoufi, R., Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments.<br>
 
 ### Research Experience
 
