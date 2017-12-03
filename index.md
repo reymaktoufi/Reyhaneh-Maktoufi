@@ -30,7 +30,7 @@ Physiotherapy<br>
 
 -Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association.<br>
 
-Haider, D., Cooper, K., & Maktoufi, R. (2016, October 20). Mergers as a strategy for success: 2016 Report from the Metropolitan Chicago Nonprofit Merger research project. Retrieved from ]http://www.chicagonpmergerstudy.org/](http://www.chicagonpmergerstudy.org/)<br>
+-Haider, D., Cooper, K., & Maktoufi, R. (2016, October 20). Mergers as a strategy for success: 2016 Report from the Metropolitan Chicago Nonprofit Merger research project. Retrieved from ]http://www.chicagonpmergerstudy.org/](http://www.chicagonpmergerstudy.org/)<br>
 
 -Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.<br>
 
