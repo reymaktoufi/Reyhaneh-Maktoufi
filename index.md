@@ -22,6 +22,8 @@ Physiotherapy<br>
 
 ### Publication and Presentation
 
+-Maktoufi, R. (2018). Science and Entertainment: How Pop Culture References are Used for Science Communication. AAAS Annual Meeting E-poster student competition. <br>
+
 -Cooper, K.R., & Maktoufi, R. (2017, November). Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers. Paper to be presented at Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) conference, Grand Rapids, MI. <br>
 
 -Maktoufi, R., Shumate, M. D., O'Connor, A. S. (2017). The Effect of Created Fit and level of Activism on the Perception of Fitness of Nonprofit and Corporate Partnerships. Poster presented at the Organizational Communication Mini-Conference, Athens, OH, October 13-15.<br>
@@ -130,18 +132,20 @@ Summer 2013<br>
 
 ### Media
 
+**Science Communication Video**-[Personal Youtube Channel](https://www.youtube.com/user/reyhanehmak)<br>
+
+**Science Communication Writing**- [Personal Blog](https://reyhanehmaktoufi.wordpress.com)<br>
+
+**Science Comics**- [Personal Instagram Page ](https://www.instagram.com/reyhanehmc/)<br>
+
+**Assistant Journalist/Interpreter**- Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)<br>
+
 **Documentaries**- The Blue Wheel (Star, 2011), People is Sometimes Kind (Illustrator, 2012)<br>
 TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 **Commercials and Advertising**-  World Writers (Copywriter, April 2013- Present), Magnolia Advertising agency (Creative Producer, October 2012- March 2013)<br>
 
 **Game**- Pwnie Yard: Razorettes (voice-over, 2015)<br>
-
-**Assistant Journalist/Interpreter**- Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)<br>
-
-**Science Communication**-[Personal Youtube Channel](https://www.youtube.com/user/reyhanehmak) and [Personal Blog](https://reyhanehmaktoufi.wordpress.com)<br>
-
-**Comics/Illustration**- [Personal Instagram Page ](https://www.instagram.com/reyhanehmc/)<br>
 
 
 ### Skills
@@ -150,9 +154,9 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 **Adobe Package**- Photoshop, Premiere, After Effect, Audition<br>
 
-**Computer Skills**- Familiar with CSS, HTML, D3<br>
+**Computer Skills**- Familiar with CSS, HTML <br>
 
-**Statistics**- SPSS <br>
+**Methodology Software**- SPSS, Atlas.ti <br>
 
 ### Other Life Experiences
 **TEDx Northwestern Speaker** - [Northwestern University](https://www.youtube.com/watch?v=jKYotip_2LU&t=1s) (April 2017)<br>
