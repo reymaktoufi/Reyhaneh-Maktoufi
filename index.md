@@ -22,6 +22,8 @@ Physiotherapy<br>
 
 ### Publication and Presentation
 
+-Maktoufi, R. (2018). Science and Entertainment: How Astronomers use Pop Culture references for Science Communication. Communicating Astronomy with the Public Conference. <br>
+
 -Maktoufi, R. (2018). Science and Entertainment: How Pop Culture References are Used for Science Communication. AAAS Annual Meeting E-poster student competition. <br>
 
 -Cooper, K.R., & Maktoufi, R. (2017, November). Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers. Paper to be presented at Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) conference, Grand Rapids, MI. <br>
