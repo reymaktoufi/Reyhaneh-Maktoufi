@@ -115,7 +115,7 @@ Summer 2013<br>
 
 ### Volunteer Experience
 
-**[Soapbox Science] (http://soapboxscience.org/)**, US - Evaluator<br>
+**[Soapbox Science](http://soapboxscience.org/)**, US - Evaluator<br>
 2016 - 2017<br>
 
 **Communicating Science Conference "[ComSciCon-Chicago](https://comscicon.com/people/reyhaneh-maktoufi)"**, US - Co-President<br>
