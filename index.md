@@ -1,9 +1,10 @@
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
 
-Reyhaneh is a PhD student in Media, Technology, and Society at Northwestern University. Her main field of interest is science communication in particular in Astronomy and Physics. She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships.
+Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement in with scientists.  She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships.
 
-Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97) and the [Brave Initiatives](https://www.braveinitiatives.com/the-brave-team.html) as a workshop facilitator. In her free time, she does doodling and scares away the birds by singing high-pitch with her ukulele.
+Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97) as a communication workshop facilitator and the Communicating Science Conference [ComSciCon - Chicago] (https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts] (https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
+
 
 
 ### EDUCATION
@@ -22,23 +23,23 @@ Physiotherapy<br>
 
 ### Publication and Presentation
 
--Maktoufi, R. (2018). Science and Entertainment: How Astronomers use Pop Culture references for Science Communication. Communicating Astronomy with the Public Conference. <br>
+-Maktoufi, R. (2018). Science and Entertainment: How Astronomers use Pop Culture references for Science Communication. Communicating Astronomy with the Public Conference. Fukuoka, Japan, 24-28 March.<br>
 
--Maktoufi, R. (2018). Science and Entertainment: How Pop Culture References are Used for Science Communication. AAAS Annual Meeting E-poster student competition. <br>
+-Maktoufi, R. (2018). Science and Entertainment: How Pop Culture References are Used for Science Communication. AAAS Annual Meeting E-poster student competition. Austin, TX, 15-19 February.<br>
 
--Cooper, K.R., & Maktoufi, R. (2017, November). Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers. Paper to be presented at Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) conference, Grand Rapids, MI. <br>
+-Cooper, K.R., & Maktoufi, R. (2017). Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers. Paper to be presented at Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) conference. Grand Rapids, MI, 16-18 November. <br>
 
--Maktoufi, R., Shumate, M. D., O'Connor, A. S. (2017). The Effect of Created Fit and level of Activism on the Perception of Fitness of Nonprofit and Corporate Partnerships. Poster presented at the Organizational Communication Mini-Conference, Athens, OH, October 13-15.<br>
+-Maktoufi, R., Shumate, M. D., O'Connor, A. S. (2017). The Effect of Created Fit and level of Activism on the Perception of Fitness of Nonprofit and Corporate Partnerships. Poster presented at the Organizational Communication Mini-Conference. Athens, OH, October 13-5.<br>
 
--Maktoufi, R. (2017). Pop Culture References: A Bait to Elicit Pleasant Scientific Curiosity. ACM CHI 2017 workshop Design for Curiosity.<br>
+-Maktoufi, R. (2017). Pop Culture References: A Bait to Elicit Pleasant Scientific Curiosity. ACM CHI 2017 workshop Design for Curiosity. Denver, CO, 6-22 May.<br>
 
--Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association.<br>
+-Maktoufi, R. (2016). Popular Culture’s Application in Science Communication at the Adler Planetarium. Presentation for Midwestern Popular Culture Association. Chicago, IL, 6-9 October.<br>
 
 -Haider, D., Cooper, K., & Maktoufi, R. (2016, October 20). Mergers as a strategy for success: 2016 Report from the Metropolitan Chicago Nonprofit Merger research project. Retrieved from [http://www.chicagonpmergerstudy.org/](http://www.chicagonpmergerstudy.org/)<br>
 
 -Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.<br>
 
--Maktoufi, R., Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments.<br>
+-Maktoufi, R., Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments. San Francisco, CA. February 27–March 2.<br>
 
 ### Research Experience
 
@@ -91,6 +92,9 @@ Series of ongoing workshops for volunteers working with children experiencing te
 
 ### Relevant Training
 
+**ComSciCon-National**, US - Science Communication Skills<br>
+Summer 2018<br>
+
 **Northwestern's leadership Coaching**, US - Personalized leadership skills training<br>
 Spring 2017
 
@@ -110,6 +114,9 @@ July 2014<br>
 Summer 2013<br>
 
 ### Volunteer Experience
+
+**[Soapbox Science] "(http://soapboxscience.org/)"**, US - Evaluator<br>
+2016 - 2017<br>
 
 **Communicating Science Conference "[ComSciCon-Chicago](https://comscicon.com/people/reyhaneh-maktoufi)"**, US - Co-President<br>
 2016 - 2017<br>
@@ -139,6 +146,8 @@ Summer 2013<br>
 **Science Communication Writing**- [Personal Blog](https://reyhanehmaktoufi.wordpress.com)<br>
 
 **Science Comics**- [Personal Instagram Page ](https://www.instagram.com/reyhanehmc/)<br>
+
+**Science Communication Podcast Contributor**- [PhDrinking Podcast](https://soundcloud.com/phdrinking/how-to-make-a-science-entertainment-cocktail)<br>
 
 **Assistant Journalist/Interpreter**- Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)<br>
 
@@ -176,7 +185,7 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 **Physiotherapist**- Teran’s Children Medical Center (2006- 2007)<br>
 
 ### Contact Info
-You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her on Twitter [@thecosmicrey](https://twitter.com/thecosmicrey) and [instagram](https://www.instagram.com/reyhanehmc/) and read her blog ["The Cosmic Rey"](https://reyhanehmaktoufi.wordpress.com/).
+You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her on Twitter [@thecosmicrey](https://twitter.com/thecosmicrey) and [instagram](https://www.instagram.com/reyhanehmc/) and read her blog ["The Cosmic Rey"](https://reyhanehmaktoufi.wordpress.com/). You can also find her on [LinkedIn] (https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0).
 
 
 
