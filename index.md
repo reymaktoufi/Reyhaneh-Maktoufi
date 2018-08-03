@@ -23,13 +23,13 @@ Physiotherapy<br>
 
 ### Publication and Presentation
 
--Maktoufi, R. (2018). Science and Entertainment: How Astronomers use Pop Culture references for Science Communication. Communicating Astronomy with the Public Conference. Fukuoka, Japan, 24-28 March.<br>
+-Maktoufi, R. (2018). Science and Entertainment: How Astronomers use Pop Culture References for Science Communication. Communicating Astronomy with the Public Conference. Fukuoka, Japan, 24-28 March.<br>
 
 -Maktoufi, R. (2018). Science and Entertainment: How Pop Culture References are Used for Science Communication. AAAS Annual Meeting E-poster student competition. Austin, TX, 15-19 February.<br>
 
 -Cooper, K.R., & Maktoufi, R. (2017). Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers. Paper to be presented at Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) conference. Grand Rapids, MI, 16-18 November. <br>
 
--Maktoufi, R., Shumate, M. D., O'Connor, A. S. (2017). The Effect of Created Fit and level of Activism on the Perception of Fitness of Nonprofit and Corporate Partnerships. Poster presented at the Organizational Communication Mini-Conference. Athens, OH, October 13-5.<br>
+-Maktoufi, R., Shumate, M. D., O'Connor, A. S. (2017). The Effect of Created Fit and Level of Activism on the Perception of Fitness of Nonprofit and Corporate Partnerships. Poster presented at the Organizational Communication Mini-Conference. Athens, OH, October 13-5.<br>
 
 -Maktoufi, R. (2017). Pop Culture References: A Bait to Elicit Pleasant Scientific Curiosity. ACM CHI 2017 workshop Design for Curiosity. Denver, CO, 6-22 May.<br>
 
