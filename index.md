@@ -65,7 +65,11 @@ Haider, D., Katherine, C., & Maktoufi, R. (2016). Mergers as a Strategy for Succ
 October 2016 <br>
 Invited speaker on the topic of qualitative methods in “Science Communication”<br>
 
-**Adler Planetarium**, US - Body Language<br>
+**ComSciCon - IONS**, US - Science Communication<br>
+Summer 2018<br>
+Co-organizing and co-facilitating a science communication workshop at the international optical society's network of students meeting.<br>
+
+**Adler Planetarium**, US - Science Communication<br>
 2016 - Present<br>
 Teaching communication and science storytelling to new speakers of Adler’s Space Visualization Lab<br>
 
@@ -116,7 +120,10 @@ Summer 2013<br>
 ### Volunteer Experience
 
 **[Soapbox Science](http://soapboxscience.org/)**, US - Evaluator<br>
-2016 - 2017<br>
+Summer 2018<br>
+
+**CIEAR High school Project Showcase**, US - Project Judge<br>
+Summer 2018<br>
 
 **Communicating Science Conference "[ComSciCon-Chicago](https://comscicon.com/people/reyhaneh-maktoufi)"**, US - Co-President<br>
 2016 - 2017<br>
