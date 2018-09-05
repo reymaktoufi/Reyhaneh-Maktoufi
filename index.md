@@ -125,6 +125,9 @@ Summer 2018<br>
 **CIEAR High school Project Showcase**, US - Project Judge<br>
 Summer 2018<br>
 
+**Communicating Science Conference "[ComSciCon-Chicago](https://comscicon.com/people/reyhaneh-maktoufi)"**, US - Organizing Committee<br>
+2017 - 2018<br>
+
 **Communicating Science Conference "[ComSciCon-Chicago](https://comscicon.com/people/reyhaneh-maktoufi)"**, US - Co-President<br>
 2016 - 2017<br>
 
