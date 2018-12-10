@@ -1,9 +1,9 @@
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
 
-Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement in with scientists.  She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships.
+Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement in with scientists.  She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships. She is also a researcher at the Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97), where she studies science communication and facilitates workshops on communciation skills. 
 
-Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97) as a communication workshop facilitator and the Communicating Science Conference [ComSciCon - Chicago](https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts](https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
+Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as The Story Collider for the Communicating Science Conference [ComSciCon - Chicago](https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts](https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
 
 
 
@@ -49,6 +49,13 @@ Physiotherapy<br>
 Working for the Metropolitan Chicago Nonprofit Merger Research Project on nonprofit mergers publish at:<br>
 Haider, D., Katherine, C., & Maktoufi, R. (2016). Mergers as a Strategy for Success. Retrieved from: http://chicagonpmergerstudy.org/<br>
 -Project manager for the Nonprofit and Corporation partnership research funded by NSF<br>
+
+**Adler Planetarium**, US - Researcher<br>
+2018 - PRESENT<br>
+-Science and Entertainment: How Astronomers Use Pop Culture References for Science Communication
+<br>
+-Attributes of Science Outreach Activities that Foster Dialogue and Curiosity: A Case Study at the Adler Planetarium
+<br>
 
 **National Cancer Network**, Iran - Sepas NGO Correspondent Research Assistant<br>
 2012 - 2015<br>
@@ -159,12 +166,12 @@ Summer 2018<br>
 
 **Science Communication Podcast Contributor**- [PhDrinking Podcast](https://soundcloud.com/phdrinking/how-to-make-a-science-entertainment-cocktail)<br>
 
-**Assistant Journalist/Interpreter**- Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)<br>
+**Assistant Journalist/Interpreter**- Client include Spiegel, Stern, Wall Street Journal, New York Times, Arte (2008-2014)<br>
 
 **Documentaries**- The Blue Wheel (Star, 2011), People is Sometimes Kind (Illustrator, 2012)<br>
 TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
-**Commercials and Advertising**-  World Writers (Copywriter, April 2013- Present), Magnolia Advertising agency (Creative Producer, October 2012- March 2013)<br>
+**Commercials and Advertising**-  World Writers (Copywriter, April 2013- Present) clients include Reebok, Adidas, Lufthansa, and SONY; Magnolia Advertising agency (Creative Producer, October 2012- March 2013)<br>
 
 **Game**- Pwnie Yard: Razorettes (voice-over, 2015)<br>
 
@@ -177,7 +184,7 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 **Computer Skills**- Familiar with CSS, HTML <br>
 
-**Methodology Software**- SPSS, Atlas.ti <br>
+**Methodology Software**- SPSS, Atlas.ti, R <br>
 
 ### Other Life Experiences
 **TEDx Northwestern Speaker** - [Northwestern University](https://www.youtube.com/watch?v=jKYotip_2LU&t=1s) (April 2017)<br>
