@@ -1,7 +1,7 @@
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
 
-Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement in with scientists.  She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships. She is also a researcher at the Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97), where she studies science communication and facilitates workshops on communciation skills. 
+Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement in with scientists.  She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships. She is also a researcher at the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97), where she studies science communication and facilitates workshops on communciation skills. 
 
 Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as The Story Collider for the Communicating Science Conference [ComSciCon - Chicago](https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts](https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
 
