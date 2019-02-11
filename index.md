@@ -1,9 +1,9 @@
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
 
-Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement in with scientists.  She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships. She is also a researcher at the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97), where she studies science communication and facilitates workshops on communciation skills. 
+Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement with scientists. She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships. She is also a researcher at the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97), where she studies science communication and facilitates workshops on communciation skills. 
 
-Her working background is mainly in audience outreach in nonprofits, mostly in the field of health. Rey currently enjoys working with different nonprofits such as The Story Collider for the Communicating Science Conference [ComSciCon - Chicago](https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts](https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
+Before starting a PhD, Rey has been working as a health communictaion facilitator and cancer preventive/palliative care campiagn manager in Tehran, Iran. Rey currently enjoys working with different nonprofits such as The Story Collider for the Communicating Science Conference [ComSciCon - Chicago](https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts](https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
 
 
 
@@ -23,6 +23,8 @@ Physiotherapy<br>
 
 ### Publication and Presentation
 
+-Maktoufi, R., Shumate, M.D., and O’Connor, A., (2019) “Does the CSR message matter?:Untangling the relationship between corporate–nonprofit partnerships, created fit messages, and activist evaluations,” International Communication Association, Washington D.C., U.S., 24-28 May. <br> 
+
 -Maktoufi, R. (2018). Science and Entertainment: How Astronomers use Pop Culture References for Science Communication. Communicating Astronomy with the Public Conference. Fukuoka, Japan, 24-28 March.<br>
 
 -Maktoufi, R. (2018). Science and Entertainment: How Pop Culture References are Used for Science Communication. AAAS Annual Meeting E-poster student competition. Austin, TX, 15-19 February.<br>
@@ -40,6 +42,14 @@ Physiotherapy<br>
 -Maktoufi, R., Ghotbi, N., & Ansari, N. N. (2016). The Effects of Listening to Persian Music on the Hand Dexterity and Depression in a Patient with Stroke: A Case Report. Journal of Rehabilitation Sciences and Research, 2(3), 68-70.<br>
 
 -Maktoufi, R., Foong, E. (2016). The Effect of Message Framing on Intention to Engage in Science Communication. CSCW 2016 workshop Designing Online Experiments. San Francisco, CA. February 27–March 2.<br>
+
+### Journal Papers in Review
+
+-Maktoufi, R., Shumate, M.D., and O’Connor, A., “Does the CSR message matter?:
+Untangling the relationship between corporate–nonprofit partnerships, created fit messages, and activist evaluations,” Submitted to: Management Communication Quarterly. <br>
+
+-Cooper, K.R., Maktoufi, R., “Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers,” Submitted to: Nonprofit Management & Leadership. <br>
+
 
 ### Research Experience
 
@@ -75,6 +85,10 @@ Invited speaker on the topic of qualitative methods in “Science Communication�
 **ComSciCon - IONS**, US - Science Communication<br>
 Summer 2018<br>
 Co-organizing and co-facilitating a science communication workshop at the international optical society's network of students meeting.<br>
+
+**Northwestern University**, US - Introduction to Health Communication <br>
+Spring 2018 <br>
+Teacher Assistant 
 
 **Adler Planetarium**, US - Science Communication<br>
 2016 - Present<br>
