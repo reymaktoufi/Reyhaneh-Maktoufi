@@ -25,7 +25,7 @@ Physiotherapy<br>
 
 -Maktoufi, R., Shumate, M.D., and O’Connor, A., (2019) “Does the CSR message matter?:Untangling the relationship between corporate–nonprofit partnerships, created fit messages, and activist evaluations,” International Communication Association, Washington D.C., U.S., 24-28 May. <br> 
 
-- Maktoufi, R. (2019). Attributes of science outreach activities that foster engagement and curiosity. AAAS Annual Meeting E-poster student competition. Washington D.C. 14-17 February.<br> 
+-Maktoufi, R. (2019). Attributes of science outreach activities that foster engagement and curiosity. AAAS Annual Meeting E-poster student competition. Washington D.C. 14-17 February.<br> 
 
 -Maktoufi, R. (2018). Science and Entertainment: How Astronomers use Pop Culture References for Science Communication. Communicating Astronomy with the Public Conference. Fukuoka, Japan, 24-28 March.<br>
 
