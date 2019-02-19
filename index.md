@@ -1,5 +1,6 @@
 
-![image](Pic.jpg)
+![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
+
 
 Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern University. Her main fields of interest are science communication, curiosity, and public engagement with scientists. She works at the [Nonprofit Network and Social Impact Lab](https://nnsi.northwestern.edu/about-us/people-2/) where she researches nonprofit mergers and attitudes toward nonprofit-corporation partnerships. She is also a researcher at the [Adler Planetarium](http://www.adlerplanetarium.org/#0m5qPHF4VP2Hw1TA.97), where she studies science communication and facilitates workshops on communciation skills. 
 
