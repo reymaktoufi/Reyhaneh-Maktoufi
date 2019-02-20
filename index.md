@@ -224,7 +224,5 @@ You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her
 [![twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/thecosmicrey)
 [![Instagram](https://imgur.com/gallery/EtM1AKs)](https://www.instagram.com/thecosmicrey/)
 [![wordpress](https://www.flaticon.com/free-icon/wordpress-logo_34209)](https://reyhanehmaktoufi.wordpress.com/)
-[![LinkedIn](
-        Reyhaneh-Maktoufi/Linked.png
-      )](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
+[![LinkedIn](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/Linked.png)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
 
