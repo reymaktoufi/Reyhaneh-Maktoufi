@@ -222,7 +222,7 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her on Twitter [@thecosmicrey](https://twitter.com/thecosmicrey) and [instagram](https://www.instagram.com/reyhanehmc/) and read her blog ["The Cosmic Rey"](https://reyhanehmaktoufi.wordpress.com/). You can also find her on [LinkedIn](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0).
 
 [![twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/thecosmicrey)
-
-[![Instagram](https://commons.wikimedia.org/wiki/File:Instagram_simple_icon.svg)]
-[![wordpress](https://www.flaticon.com/free-icon/wordpress-logo_34209)]
+[![Instagram](https://commons.wikimedia.org/wiki/File:Instagram_simple_icon.svg)](https://www.instagram.com/reyhanehmc/)
+[![wordpress](https://www.flaticon.com/free-icon/wordpress-logo_34209)](https://reyhanehmaktoufi.wordpress.com/)
+[![LinkedIn](https://www.flaticon.com/free-icon/linkedin-logo_34227)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
 
