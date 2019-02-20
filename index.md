@@ -219,7 +219,8 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 **Physiotherapist**- Teran’s Children Medical Center (2006- 2007)<br>
 
 ### Contact Info
-You can reach her by email at rey.maktoufi [at] u.northwestern.
+You can reach her by email at rey.maktoufi [at] u.northwestern.<br>
+
 [![twitter](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_twitter_circle_black_107155.png)](https://twitter.com/thecosmicrey)
 [![Instagram](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_instagram_circle_black_107150.png)](https://www.instagram.com/thecosmicrey/)
 [![wordpress](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_66-wordpress_104437.png)](https://reyhanehmaktoufi.wordpress.com/)
