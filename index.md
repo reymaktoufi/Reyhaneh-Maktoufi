@@ -221,8 +221,8 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 ### Contact Info
 You can reach her by email at rey.maktoufi [at] u.northwestern.edu or follow her on Twitter [@thecosmicrey](https://twitter.com/thecosmicrey) and [instagram](https://www.instagram.com/thecosmicrey/) and read her blog ["The Cosmic Rey"](https://reyhanehmaktoufi.wordpress.com/). You can also find her on [LinkedIn](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0).
 
-[![twitter](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/twitter.png)](https://twitter.com/thecosmicrey)
-[![Instagram](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/insta.png)](https://www.instagram.com/thecosmicrey/)
-[![wordpress](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/W.png)](https://reyhanehmaktoufi.wordpress.com/)
-[![LinkedIn](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/Linked.png)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
+[![twitter](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_twitter_circle_black_107155.png)](https://twitter.com/thecosmicrey)
+[![Instagram](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_instagram_circle_black_107150.png)](https://www.instagram.com/thecosmicrey/)
+[![wordpress](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_66-wordpress_104437.png)](https://reyhanehmaktoufi.wordpress.com/)
+[![LinkedIn](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_linkedin_circle_black_107159.png)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
 
