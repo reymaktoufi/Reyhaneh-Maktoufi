@@ -1,5 +1,5 @@
 ---
-layout: default
+Title: Science Communication
 ---
 
 ## Welcome to another page
