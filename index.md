@@ -1,7 +1,7 @@
 
 [about](http://reyhanehmaktoufi.com)   
 [research](file:///C:/Rey/Microsoft%20Surface%20Final/Rey/Academia/Rey%20Website/research.html)   
-[science communication](Reyhaneh-Maktoufi/science-communication.html)   
+[science communication](/science-communication.html)   
 [in media](file:///C:/Rey/Microsoft%20Surface%20Final/Rey/Academia/Rey%20Website/in-media.html)
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
