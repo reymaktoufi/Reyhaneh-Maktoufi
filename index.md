@@ -1,4 +1,9 @@
 
+### [about](http://reyhanehmaktoufi.com)
+### [research](file:///C:/Rey/Microsoft%20Surface%20Final/Rey/Academia/Rey%20Website/research.html)
+### [science communication](file:///C:/Rey/Microsoft%20Surface%20Final/Rey/Academia/Rey%20Website/science-communication.html) 
+### [in media](file:///C:/Rey/Microsoft%20Surface%20Final/Rey/Academia/Rey%20Website/in-media.html)
+
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
 
 
@@ -6,7 +11,6 @@ Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern Un
 
 Before starting a PhD, Rey has been working as a health communictaion facilitator and cancer preventive/palliative care campiagn manager in Tehran, Iran. Rey currently enjoys working with different nonprofits such as The Story Collider for the Communicating Science Conference [ComSciCon - Chicago](https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts](https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
 
-### [Science Communication](file:///C:/Rey/Microsoft%20Surface%20Final/Rey/Academia/Rey%20Website/Page%201.html) 
 
 
 ### EDUCATION
@@ -53,7 +57,6 @@ Physiotherapy<br>
 Untangling the relationship between corporate–nonprofit partnerships, created fit messages, and activist evaluations,” Submitted to: Management Communication Quarterly. <br>
 
 -Cooper, K.R., Maktoufi, R., “Re-defining integration: Relationships, retention, and restructuring in nonprofit mergers,” Submitted to: Nonprofit Management & Leadership. <br>
-
 
 ### Research Experience
 
