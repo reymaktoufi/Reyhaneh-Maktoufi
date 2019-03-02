@@ -6,7 +6,7 @@ Reyhaneh is a PhD candidate in Media, Technology, and Society at Northwestern Un
 
 Before starting a PhD, Rey has been working as a health communictaion facilitator and cancer preventive/palliative care campiagn manager in Tehran, Iran. Rey currently enjoys working with different nonprofits such as The Story Collider for the Communicating Science Conference [ComSciCon - Chicago](https://comscicon.com/) as an organizer. She also engages in science outreach through writing [blog-posts](https://reyhanehmaktoufi.wordpress.com/) and making science [comics](https://www.instagram.com/thecosmicrey/). 
 
-### [Science Communication](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/new%20index.html) 
+### [Science Communication](file:///C:/Rey/Microsoft%20Surface%20Final/Rey/Academia/Rey%20Website/Page%201.html) 
 
 
 ### EDUCATION
