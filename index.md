@@ -1,5 +1,5 @@
 
-[**A**bout](http://reyhanehmaktoufi.com)     [**R**esearch](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/research.html)   [**S**cience Communication](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/science-communication.html)    [**I**n Media](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/in-media.html)
+[**A**bout](http://reyhanehmaktoufi.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    [**R**esearch](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/research.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [**S**cience Communication](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/science-communication.html) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    [**I**n Media](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/in-media.html)
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
 
