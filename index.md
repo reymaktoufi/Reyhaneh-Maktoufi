@@ -127,6 +127,9 @@ Summer 2018<br>
 **Northwestern's leadership Coaching**, US - Personalized leadership skills training<br>
 Spring 2017
 
+**NU Medill School's Science Writing**, US - Science writing course<br>
+Winter 2016
+
 **Northwestern’s IDEAS**, US - Data Visualization (D3, Matplotlib, Paraview, etc.)<br>
 Summer 2016<br>
 
