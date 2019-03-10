@@ -166,7 +166,7 @@ Summer 2018<br>
 2016 - Present<br>
 
 **[Brave Initiatives](https://www.braveinitiatives.com/the-brave-team.html)**- Public Speaking Workshop Facilitator<br>
-2015 - Present<br>
+2015 - 2017<br>
 
 **Northwestern University**, US-  Professional Development Committee <br>
 2016 - Present<br>
