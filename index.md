@@ -195,7 +195,7 @@ Summer 2018<br>
 **Documentaries**- The Blue Wheel (Star, 2011), People is Sometimes Kind (Illustrator, 2012)<br>
 TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
-**Commercials and Advertising**-  World Writers (Copywriter, April 2013- Present) clients include Reebok, Adidas, Lufthansa, and SONY; Magnolia Advertising agency (Creative Producer, October 2012- March 2013)<br>
+**Commercials and Advertising**-  World Writers (Copywriter, April 2013- 2016) clients include Reebok, Adidas, Lufthansa, and SONY; Magnolia Advertising agency (Creative Producer, October 2012- March 2013)<br>
 
 **Game**- Pwnie Yard: Razorettes (voice-over, 2015)<br>
 
