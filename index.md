@@ -215,15 +215,15 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 
 **NCA Doctoral Honors Seminar** - Bowling Green State University (July, 2017)<br>
 
-**Chemistry Education Copywriter** - [Science Ninja](http://www.scienceninjas.com/) Board Game Intern - (Summer 2017) <br>
+**Chemistry Education Copywriter** - [Science Ninja board game](http://www.scienceninjas.com/) Board Game Intern - (Summer 2017) <br>
 
-**Grief Consultant**- Farsi Hospice (2013- 2015)<br>
+**Grief Facilitator**- Farsi Hospice (2013- 2015)<br>
 
 **Amateur Astronomer**- Freelance (2003 - Present)<br>
 
 **Website Administrator**-Lifestyle English (2006); Marham, Palliative Care Support(2014)<br>
 
-**Physiotherapist**- Teran’s Children Medical Center (2006- 2007)<br>
+**Physiotherapist**- Teran’s Pediatric Medical Center (2006- 2007)<br>
 
 ### Contact Info
 You can reach her by email at rey.maktoufi [at] u.northwestern.<br>
