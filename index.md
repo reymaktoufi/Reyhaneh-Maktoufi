@@ -1,4 +1,10 @@
+![AboutMe](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Rey About Me.jpg)
+[![SciComm](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Scicomm.jpg)](https://spark.adobe.com/page/xqDv5K5D9dJtb/)
+[![Research]](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/research blue.jpg)
+[![StayInTouch]](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Stay in Touch.jpg)
 
+
+<!--
 [**A**bout](http://reyhanehmaktoufi.com) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [**R**esearch](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/research.html) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**S**cience Communication](https://spark.adobe.com/page/xqDv5K5D9dJtb/) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [**I**n Media](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/in-media.html)
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
@@ -228,6 +234,8 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 ### Contact Info
 You can reach her by email at rey.maktoufi [at] u.northwestern.<br>
 
+          
+-->
 [![twitter](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_twitter_circle_black_107155.png)](https://twitter.com/thecosmicrey)
 [![Instagram](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_instagram_circle_black_107150.png)](https://www.instagram.com/thecosmicrey/)
 [![wordpress](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_66-wordpress_104437.png)](https://reyhanehmaktoufi.wordpress.com/)
