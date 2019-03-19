@@ -2,7 +2,7 @@
 
 [![SciComm](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Scicomm.jpg)](https://spark.adobe.com/page/xqDv5K5D9dJtb/)
 
-[![Research](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/ResearchBlue.jpg)]
+![Research](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/ResearchBlue.jpg)
 
 ![StayInTouch](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/StayinTouch.jpg)
 
