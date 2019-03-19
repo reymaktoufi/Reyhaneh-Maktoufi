@@ -1,8 +1,6 @@
 ![AboutMe](https://spark.adobe.com/post/jBbi5SNYwlXqC/)
 
-<img src="(https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Scicomm.jpg)>
-          
-          (https://spark.adobe.com/page/xqDv5K5D9dJtb/)
+[![SciComm](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Scicomm.jpg)](https://spark.adobe.com/page/xqDv5K5D9dJtb/)
 
 ![Research](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/ResearchBlue.jpg)
 
