@@ -1,10 +1,10 @@
 ![AboutMe](https://reyhanehmaktoufi.files.wordpress.com/2019/03/reyaboutme.png)
 
-[![SciComm](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/Scicomm.png)](https://spark.adobe.com/page/xqDv5K5D9dJtb/)
+[![SciComm](https://reyhanehmaktoufi.files.wordpress.com/2019/03/scicomm.png)](https://spark.adobe.com/page/xqDv5K5D9dJtb/)
 
-![Research](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/Research.png)
+![Research](https://reyhanehmaktoufi.files.wordpress.com/2019/03/research.png)
 
-![StayInTouch](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/StayinTouch.png)
+![StayInTouch](https://reyhanehmaktoufi.files.wordpress.com/2019/03/stayintouch.png?w=2280)
 
 
 <!--
