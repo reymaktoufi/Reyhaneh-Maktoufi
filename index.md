@@ -242,8 +242,8 @@ You can reach her by email at rey.maktoufi [at] u.northwestern.<br>
 
           
 -->
-[![twitter](https://reyhanehmaktoufi.files.wordpress.com/2019/03/twitter.png?w=158&h=158)](https://twitter.com/thecosmicrey)
+[![twitter](https://reyhanehmaktoufi.files.wordpress.com/2019/03/twitter.png?w=68&h=68)](https://twitter.com/thecosmicrey)
 [![Instagram](https://reyhanehmaktoufi.files.wordpress.com/2019/03/insta.png?w=68&h=68)](https://www.instagram.com/thecosmicrey/)
-[![wordpress](https://reyhanehmaktoufi.files.wordpress.com/2019/03/w.png)](https://reyhanehmaktoufi.wordpress.com/)
-[![LinkedIn](https://reyhanehmaktoufi.files.wordpress.com/2019/03/linked.png)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
+[![wordpress](https://reyhanehmaktoufi.files.wordpress.com/2019/03/w.png?w=68&h=68)](https://reyhanehmaktoufi.wordpress.com/)
+[![LinkedIn](https://reyhanehmaktoufi.files.wordpress.com/2019/03/linked.png?w=68&h=68)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
 
