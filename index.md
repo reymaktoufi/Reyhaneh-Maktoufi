@@ -1,8 +1,7 @@
-![AboutMe](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Rey About Me.jpg)
+![image](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Rey About Me.jpg)
 [![SciComm](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Scicomm.jpg)](https://spark.adobe.com/page/xqDv5K5D9dJtb/)
-[![Research]](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/research blue.jpg)
-[![StayInTouch]](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Stay in Touch.jpg)
-
+[![Research](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/research blue.jpg)]
+![image](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/Stay in Touch.jpg)
 
 <!--
 [**A**bout](http://reyhanehmaktoufi.com) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [**R**esearch](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/research.html) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**S**cience Communication](https://spark.adobe.com/page/xqDv5K5D9dJtb/) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [**I**n Media](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/in-media.html)
