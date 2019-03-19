@@ -1,4 +1,4 @@
-![AboutMe](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/ReyAboutMe.png)
+![AboutMe](https://reyhanehmaktoufi.files.wordpress.com/2019/03/reyaboutme.png)
 
 [![SciComm](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/Scicomm.png)](https://spark.adobe.com/page/xqDv5K5D9dJtb/)
 
