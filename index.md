@@ -4,10 +4,11 @@
 
 ![Research](https://reyhanehmaktoufi.files.wordpress.com/2019/03/research.png)
 
-![StayInTouch](https://reyhanehmaktoufi.files.wordpress.com/2019/03/stayintouch.png?w=2280)
 
 
 <!--
+![StayInTouch](https://reyhanehmaktoufi.files.wordpress.com/2019/03/stayintouch.png?w=2280)
+
 [**A**bout](http://reyhanehmaktoufi.com) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [**R**esearch](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/research.html) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**S**cience Communication](https://spark.adobe.com/page/xqDv5K5D9dJtb/) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [**I**n Media](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/in-media.html)
 
 ![image](http://nnsi.soc.northwestern.edu/wp-content/uploads/2013/01/Rey-copy.jpg)
@@ -237,10 +238,12 @@ TV Show Pilot(Extra)- Juliet and the Shrink (2012)<br>
 ### Contact Info
 You can reach her by email at rey.maktoufi [at] u.northwestern.<br>
 
+[![twitter](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_twitter_circle_black_107155.png)](https://twitter.com/thecosmicrey)
+
           
 -->
-[![twitter](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_twitter_circle_black_107155.png)](https://twitter.com/thecosmicrey)
-[![Instagram](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_instagram_circle_black_107150.png)](https://www.instagram.com/thecosmicrey/)
-[![wordpress](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_66-wordpress_104437.png)](https://reyhanehmaktoufi.wordpress.com/)
-[![LinkedIn](https://github.com/reymaktoufi/Reyhaneh-Maktoufi/blob/master/iconfinder_linkedin_circle_black_107159.png)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
+[![twitter](https://reyhanehmaktoufi.files.wordpress.com/2019/03/twitter.png?w=158&h=158)](https://twitter.com/thecosmicrey)
+[![Instagram](https://reyhanehmaktoufi.files.wordpress.com/2019/03/insta.png?w=156&h=156)](https://www.instagram.com/thecosmicrey/)
+[![wordpress](https://reyhanehmaktoufi.files.wordpress.com/2019/03/w.png)](https://reyhanehmaktoufi.wordpress.com/)
+[![LinkedIn](https://reyhanehmaktoufi.files.wordpress.com/2019/03/linked.png)](https://www.linkedin.com/in/reyhaneh-maktoufi-19715ba0)
 
