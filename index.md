@@ -1,4 +1,4 @@
-**[About Me](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/)**, **[Sci Comm](https://spark.adobe.com/page/xqDv5K5D9dJtb/)**, **[Research](https://spark.adobe.com/page/kvIUAbKpG6vgj/)** **[Download my cv!](https://drive.google.com/file/d/1FRNBuWFHoYwoSI-9r0Sq69sJZF6gyir4/view)**
+**[About Me](https://reymaktoufi.github.io/Reyhaneh-Maktoufi/)**, **[Sci Comm](https://spark.adobe.com/page/xqDv5K5D9dJtb/)**, **[Research](https://spark.adobe.com/page/kvIUAbKpG6vgj/)** <br>**[Download my cv!](https://drive.google.com/file/d/1FRNBuWFHoYwoSI-9r0Sq69sJZF6gyir4/view)**
 
 ![AboutMe](https://reyhanehmaktoufi.files.wordpress.com/2019/03/reyaboutme.jpg)
 
